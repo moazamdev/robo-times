@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 5;
+}
+
+.card {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: #ffffff;
+  /* border: 1px solid gray; */
+  border-radius: 0;
+  padding: 25px;
+  cursor: pointer;
+  -moz-osx-font-smoothing: grayscale;
+  backface-visibility: hidden;
+  box-shadow: 0 0 0 0;
+  transition: all 0.15s ease-out;
+}
+
+.card:hover {
+  margin: -5px -5px 0 0;
+  box-shadow: -10px 10px 0px 0px #7259d4;
+}
+
+.card img {
+  margin-bottom: 20px;
+  border-radius: 100px;
+}
+
+.card h3 {
+  font-family: "Jura", sans-serif;
+  font-size: 1.1em;
+  color: #10162f;
+}
+
+.card p {
+  font-family: "Space Mono", monospace;
+  font-size: .8em;
+  margin-top: 2px;
+  color: dimgray;
+}
