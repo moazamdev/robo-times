@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/robo-times/static/css/main.584b0297.css",
+    "main.js": "/robo-times/static/js/main.666ac66a.js",
+    "static/js/787.328c550a.chunk.js": "/robo-times/static/js/787.328c550a.chunk.js",
+    "index.html": "/robo-times/index.html",
+    "main.584b0297.css.map": "/robo-times/static/css/main.584b0297.css.map",
+    "main.666ac66a.js.map": "/robo-times/static/js/main.666ac66a.js.map",
+    "787.328c550a.chunk.js.map": "/robo-times/static/js/787.328c550a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.584b0297.css",
+    "static/js/main.666ac66a.js"
+  ]
+}
